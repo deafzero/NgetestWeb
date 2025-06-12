@@ -1,7 +1,7 @@
 <h1 align="center">🔍 Manual Tester - Project  </h1>
 
 ## Introduction
-<p align="justify"> Hallo semua perkenalkan namaku Lucas pada repository kali aku akan membuat sebuah pengujian pada website eccomerce yaitu website demo yang disediakan oleh perusahaan [Sauce Laps](https://saucelabs.com/). [E-commerce Demo](https://www.saucedemo.com/) Situs ini merupakan E-commerce yang dikhususkan untuk digunakan sebagai pengujian.</p>
+<p align="justify"> Hallo semua perkenalkan namaku Lucas pada repository kali aku akan membuat sebuah pengujian pada website eccomerce yaitu website demo yang disediakan oleh perusahaan <a href="https://saucelabs.com/" target="blank">Sauce Laps</a>. Situs <a href="https://www.saucedemo.com/" target="blank">E-commerce Demo</a> merupakan E-commerce yang dikhususkan untuk digunakan sebagai pengujian.</p>
 
 
 
