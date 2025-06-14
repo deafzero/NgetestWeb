@@ -10,8 +10,12 @@
 4. Test Execution - menjalankan test case. 
 5. Reporting - melaporkan setiap test yang dijalankan.
 
-<h3 style="color: blue">Test Plan </h3>
-lorem ipsum
+---
+## Document 
+1. Test Plan - [Perencanaan Pengujian Web E-commerce](./test-plan.md)
+
+
+
 
 ## ⚠️ Warning 
 `Project ini masih pada tahap pengembangan`
