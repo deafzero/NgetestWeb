@@ -13,7 +13,7 @@
 ---
 ## Document 
 1. Test Plan - [Perencanaan Pengujian Web E-commerce](./test-plan.md)
-
+2. Test Case - [Kasus Uji Web E-commerce](https://docs.google.com/spreadsheets/d/19sJfLjOQ1V3UaMS-fSPN-dXLiSPq26D4jhSMKyAtZg8/edit?usp=sharing)
 
 
 
