@@ -13,7 +13,7 @@
 ---
 ## Document 
 1. Test Plan - [Perencanaan Pengujian Web E-commerce](./test-plan.md)
-2. Test Case - [Test Case - Login](https://docs.google.com/spreadsheets/d/19sJfLjOQ1V3UaMS-fSPN-dXLiSPq26D4jhSMKyAtZg8/edit?usp=sharing), [Test Case - Produk](#)
+2. Test Case - [Enter](https://drive.google.com/drive/folders/1NiJceuKOsbZr-Z27fnux5h0UGAlzkzMd?usp=drive_link)
 
 
 
