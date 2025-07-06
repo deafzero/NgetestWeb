@@ -14,7 +14,7 @@
 ## Document 
 1. Test Plan - [Perencanaan Pengujian Web E-commerce](./test-plan.md)
 2. Test Case - [Enter](https://drive.google.com/drive/folders/1NiJceuKOsbZr-Z27fnux5h0UGAlzkzMd?usp=drive_link)
-3. Bug Report - [Enter](#)
+3. Bug Report - [Enter](./bug-report.md)
 
 
 ## Kesimpulan 
