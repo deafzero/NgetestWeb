@@ -11,7 +11,7 @@ proyek : `Pengujian Web E - commerce`
 - browser : firefox 139.0.1
 
 #### Masalah 
-> Ketika memilih metode shorting atau mengurutkan dan kemudian melakukan refresh halaman maka setiap shorting yang user pilih akan kembali ke setelah awal yaitu shorting 'Name (A to Z)'
+ Ketika memilih metode shorting atau mengurutkan dan kemudian melakukan refresh halaman maka setiap shorting yang user pilih akan kembali ke setelah awal yaitu shorting 'Name (A to Z)'
 
 #### Langkah reproduksi 
 1. Login 
