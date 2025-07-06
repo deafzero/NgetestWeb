@@ -28,34 +28,38 @@ kembali ke setelan awal yaitu shorting 'Name (A to Z)'
 - Menggangu produktivitas user saat ingin berbelanja
 - Menurunnya kehandalan sistem 
 #### Status 
- Open 
+ Open
 
-### 2. Tidak mengurutkan data setelah halaman di refresh
+___
+
+### 2. Tombol "Checkout" tidak hilang saat tidak ada produk kosong
 
 #### informasi dasar 
 
-- priority : medium 
+- priority : high 
 - browser : firefox 139.0.1
 
 #### Masalah 
- Ketika memilih metode shorting atau mengurutkan dan kemudian melakukan refresh halaman maka setiap shorting yang user pilih akan kembali ke setelan awal yaitu shorting 'Name (A to Z)'
+Tombol "Checkout" tidak hilang saat keranjang kosong 
 
 #### Langkah reproduksi 
 1. Login 
-2. Pilih metode shorting apapun selain 'Name (A to Z)'
-3. Refresh Halaman
+2. Masuk ke halaman cart.html
 
 #### Yang diharapkan 
-Mengurutkan sesuai sebelum halaman di refresh 
+Tombol "Checkout" hilang 
 
 #### Yang Terjadi 
-kembali ke setelan awal yaitu shorting 'Name (A to Z)'
+Tombol "Checkout" masih ada
 
 #### Dampak 
-- Menggangu produktivitas user saat ingin berbelanja
-- Menurunnya kehandalan sistem 
+- User dapat melakukan transaksi tanpa ada barang yang dibeli 
+- Meningkatnya rasa tidak percaya terhadap bisnis
+- Merusak reputasi bisnis 
 #### Status 
  Open 
+
+--- 
 
 
 
